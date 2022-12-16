@@ -1,6 +1,5 @@
 # photo-gallery
 
 ### Swiper JS
-
-https://github.com/joegung77/photo-gallery/blob/main/demo.mp4
+![Alt text](demo.mp4?raw=true "demo")
 
