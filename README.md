@@ -2,4 +2,5 @@
 
 ### Swiper JS
 
-demo.mp4
+https://github.com/joegung77/photo-gallery/blob/main/demo.mp4
+
